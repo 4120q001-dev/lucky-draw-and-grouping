@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HR Smart抽選 & グループ分けツール",
+  "description": "人事・教育担当者向けの、名簿管理、アニメーション付き抽選、および自動グループ分け機能を備えた多機能Webアプリです。CSVインポートや重複チェック機能も搭載しています。",
+  "requestFramePermissions": []
+}
