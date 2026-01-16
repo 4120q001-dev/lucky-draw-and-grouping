@@ -1,12 +1,14 @@
 {
-  "name": "copy-of-hr-smart抽選-&-グループ分けツール",
+  "name": "lucky-draw-and-grouping",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
+  "homepage": "https://4120q001-dev.github.io/lucky-draw-and-grouping",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react-dom": "^19.2.3",
